@@ -35,6 +35,4 @@ public class Item {
         this.unitPrice = unitPrice;
         this.specialPrice = specialPrice;
     }
-
-	
 }
